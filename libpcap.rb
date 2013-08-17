@@ -2,8 +2,8 @@ require 'formula'
 
 class Libpcap < Formula
   homepage 'http://www.tcpdump.org/'
-  url 'http://www.tcpdump.org/release/libpcap-1.3.0.tar.gz'
-  sha1 '90aa2f0fcfb4bf79fc50ccdaa70f484d96295be3'
+  url 'http://www.tcpdump.org/release/libpcap-1.4.0.tar.gz'
+  sha1 '9c9710aab68be58ed1d41b5c36dc2599419a80e0'
 
   head 'git://bpf.tcpdump.org/libpcap'
 
